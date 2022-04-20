@@ -26,7 +26,7 @@
 
 <h3 align="left">Holler at ya boy:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/cesar-aug-lopez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-23cfcf?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
+<a href="https://www.linkedin.com/in/jonathandelcid/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="lopez.cesar.aug@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-23cfcf?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 
 <!-- <h3 align="left" >Software Skills:</h3>
