@@ -1,5 +1,5 @@
 <h1 align="center">Jonathan Delcid </h1>
-<h3 align="center">An aspiring web developer from Seattle, WA. Currently enrolled at <a href="https://www.epicodus.com/" target="_blank">Epicodus</a></h3>
+<h3 align="center">A web developer from Seattle, WA. Currently enrolled at <a href="https://www.epicodus.com/" target="_blank">Epicodus</a></h3>
 <br/>
 
 <h3 align="left" >Coding skills:</h3>
